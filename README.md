@@ -16,10 +16,6 @@ Due to the large amount of data collected through this survey, especially in the
 [Comparing salary reports of developers in India and the USA](https://arjunachuthan.medium.com/comparing-salary-reports-of-developers-in-india-and-the-usa-f241412a2cd3)
 
 
-## Methodology used for Analysis
-
-CRISP-DM
-
 ## Libraries Used:
 The following libraries are used in the notebook:
 
@@ -38,7 +34,7 @@ By following the CRISP-DM mothodology, analyse and provide insights on the salar
 
 ### Business Understanding:
 
-#### Questions Answered
+##### Questions Answered
 
 1. Salary distribution in India and the USA
 2. How different is the gender pay gap in the USA and India?
@@ -47,9 +43,16 @@ By following the CRISP-DM mothodology, analyse and provide insights on the salar
 5. What are the programming languages that pay the most in the USA and India?
 
 ### Data Understanding
+This involves some basic expoloratory analysis of data to get a better understanding about the data to evaluate them. 
+
 ### Data Preparation
+Here we modify data to a state such that it is fit for analysis.
+
 ### Data Analytics and Insights
+Answer the business questions and other additional insights. 
+
 ### Model Building
+Build a model to predict salary. 
 
 ## Licensing, Authors, Acknowledgements
 [StackOverflow](https://insights.stackoverflow.com/survey) for the data. 
