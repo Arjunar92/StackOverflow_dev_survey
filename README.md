@@ -33,7 +33,7 @@ By following the CRISP-DM mothodology, analyse and provide insights on the salar
 
 ## CRISP- DM
 
-### Business Understanding:
+### 1. Business Understanding:
 
 ##### Questions Answered
 
@@ -43,16 +43,16 @@ By following the CRISP-DM mothodology, analyse and provide insights on the salar
 4. How are different developer roles paid?
 5. What are the programming languages that pay the most in the USA and India?
 
-### Data Understanding
+### 2. Data Understanding
 This involves some basic expoloratory analysis of data to get a better understanding about the data to evaluate them. 
 
-### Data Preparation
+### 3. Data Preparation
 Here we modify data to a state such that it is fit for analysis.
 
-### Data Analytics and Insights
+### 4. Data Analytics and Insights
 Answer the business questions and other additional insights. 
 
-### Model Building
+### 5. Model Building
 Build a model to predict salary. 
 
 ## Licensing, Authors, Acknowledgements
