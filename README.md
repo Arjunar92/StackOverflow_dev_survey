@@ -1,9 +1,10 @@
 # Comparing salary reports of developers in India and the USA 
 
-### Introduction:
+## Introduction:
 Every year, Stack Overflow conducts a survey among its users predominantly in the Developer’s community and publishes their report online. Their latest survey was in 2020 with over 65,000 respondents from over 180 countries and diverse demographics answering a wide range of questions ranging from behavioral, preferred technology, qualification among many others.
 
 Due to the large amount of data collected through this survey, especially in the USA and India, we are able to draw some interesting insights on the trends within the developer's community from the two countries.
+
 
 ## Data Source: 
 
@@ -11,12 +12,18 @@ Due to the large amount of data collected through this survey, especially in the
 
 
 ## Medium Blog Post:
+
 [Comparing salary reports of developers in India and the USA](https://arjunachuthan.medium.com/comparing-salary-reports-of-developers-in-india-and-the-usa-f241412a2cd3)
 
 
 ## Methodology used for Analysis
 
 CRISP-DM
+
+
+## Objective: 
+
+to compare developer salaries in India and USA. 
 
 ### Questions Answered
 
