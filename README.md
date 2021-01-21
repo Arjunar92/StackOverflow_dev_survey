@@ -20,18 +20,36 @@ Due to the large amount of data collected through this survey, especially in the
 
 CRISP-DM
 
+## Libraries Used:
+The following libraries are used in the notebook:
+
+1.) numpy
+2.) pandas,
+3.) matplotlib
+4.) sklearn
+5.) seaborn
+6.) statsmodels
+
 
 ## Objective: 
 
-to compare developer salaries in India and USA. 
+By following the CRISP-DM mothodology, analyse and provide insights on the salary data of developers in India and USA. 
 
-### Questions Answered
+
+### Business Understanding:
+
+#### Questions Answered
 
 1. Salary distribution in India and the USA
 2. How different is the gender pay gap in the USA and India?
 3. How do developer's salaries vary based on their qualifications?
 4. How are different developer roles paid?
 5. What are the programming languages that pay the most in the USA and India?
+
+### Data Understanding
+### Data Preparation
+### Data Analytics and Insights
+### Model Building
 
 ## Licensing, Authors, Acknowledgements
 [StackOverflow](https://insights.stackoverflow.com/survey) for the data. 
