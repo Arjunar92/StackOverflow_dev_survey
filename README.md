@@ -50,7 +50,7 @@ This involves some basic expoloratory analysis of data to get a better understan
 Here we modify data to a state such that it is fit for analysis.
 
 ### 4. Data Analytics and Insights
-Answer the business questions and other additional insights. 
+Answer the business questions and other additional insights. Provide descriptive analytics.
 
 ### 5. Model Building
 Build a model to predict salary. 
